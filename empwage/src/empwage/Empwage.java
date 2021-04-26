@@ -10,6 +10,7 @@ public class Empwage {
 	         System.out.println("Employee is present");
 	      else
 	         System.out.println("Employee is absent");
+	      System.out.println("Employee");
 	}
 
 }

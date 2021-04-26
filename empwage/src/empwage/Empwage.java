@@ -11,6 +11,7 @@ public class Empwage {
 	      else
 	         System.out.println("Employee is absent");
 	      System.out.println("Employee");
+	      System.out.println("Employee is absent/present");
 	}
 
 }
